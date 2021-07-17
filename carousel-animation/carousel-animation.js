@@ -1,4 +1,3 @@
-<script>
 
         const css = ($node, cssObj) => Object.assign($node.style, cssObj)
 
@@ -170,4 +169,3 @@
         document.querySelector('#animation-select').onchange = function () {
             carousel.setAnimation(Animation[this.value])
         }
-    </script>
