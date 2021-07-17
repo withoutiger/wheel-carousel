@@ -1,4 +1,3 @@
- <style>
         .container {
             max-width: 800px;
             margin: 30px auto;
@@ -118,4 +117,3 @@
         .carousel .indicators>li.active::before {
             background: #fff;
         }
-    </style>
